@@ -1,4 +1,4 @@
-#3LAB 5- BCDV4033
+LAB 5- BCDV4033
 
 1. Install JMeter.
    
@@ -6,4 +6,6 @@
    
 3. Create a Thread group for testing HTTP post requests for articles.
    
-4. Create a Thread group for testing registration of 30 users. 
+4. Create a Thread group for testing registration of 30 users.
+
+   
